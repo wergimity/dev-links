@@ -1,4 +1,4 @@
-dev-links
+Useful links to help development
 =========
 - [Design patterns](https://github.com/domnikl/DesignPatternsPHP)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
@@ -8,5 +8,3 @@ dev-links
 - [ORM Cheatsheet](http://ormcheatsheet.com/)
 - [Best CSS tutorials](http://www.singsys.com/blog/5-best-css-tutorials-to-improve-your-skills/)
 - [Free programming](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
-
-Useful dev links
