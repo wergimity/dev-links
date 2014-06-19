@@ -9,6 +9,9 @@ Useful links to help development
 - [ORM Cheatsheet](http://ormcheatsheet.com/)
 - [Best CSS tutorials](http://www.singsys.com/blog/5-best-css-tutorials-to-improve-your-skills/)
 - [Free programming](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- [Why PHP doesn’t suck anymore](http://transmission.vehikl.com/why-php-doesnt-suck-anymore/)
+- [Login with Twitter using PHP | Easy Integration](http://weblessons.info/2014/06/11/login-with-twitter/)
+- [Login with Facebook using PHP | Easy Integration](http://weblessons.info/2014/06/15/login-with-facebook-tutorial/)
 
 ## Bootstrap
 - [Top 10 Resources for Bootstrap Themes](http://codecondo.com/bootstrap-themes/)
