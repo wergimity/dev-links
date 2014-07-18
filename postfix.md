@@ -13,7 +13,12 @@ Find postfix uid and gui
 
 `id postfix`
 
-Add to the end of file `/etc/postfix/main.cf` replacing `GUI` and `UID`
+Go to `postfix direcotry`
+
+`cd /etc/postfix`
+
+
+Add to the end of file `main.cf` replacing `GUI` and `UID`
 ```
 # Add this to the end of file
 message_size_limit=20480000
@@ -43,7 +48,7 @@ smtpd_sasl_local_domain = $myhostname
 smtpd_sasl_security_options = noanonymous
 ```
 
-Create `/etc/postfix/mysql_virtual_alias_maps.cf` file with contents and edit with mysql credentials
+Create `mysql_virtual_alias_maps.cf` file with contents and edit with mysql credentials
 ```
 user = postfix
 password = password
@@ -56,7 +61,7 @@ where_field = address
 query = SELECT goto FROM alias WHERE address = '%s'
 ```
 
-Create `/etc/postfix/mysql_virtual_domains_maps.cf` file with contents and edit with mysql credentials
+Create `mysql_virtual_domains_maps.cf` file with contents and edit with mysql credentials
 ```
 user = root
 password = 456852
@@ -69,7 +74,7 @@ where_field = domain
 additional_conditions = and backupmx = '0' and active = '1'
 ```
 
-Create `/etc/postfix/mysql_virtual_mailbox_maps.cf` file with contents and edit with mysql credentials
+Create `mysql_virtual_mailbox_maps.cf` file with contents and edit with mysql credentials
 ```
 user = root
 password = 456852
