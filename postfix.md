@@ -14,7 +14,7 @@ Install postfix with mysql
 
 Add mailname file to etc
 
-`echo "HOSTNAME" > /etc/mailname`
+`sudo echo "HOSTNAME" > /etc/mailname`
 
 Find postfix uid and gui
 
