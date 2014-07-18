@@ -1,6 +1,13 @@
 Postfix setup
 =============
 
+Create database and user
+```
+CREATE DATABASE postfix;
+CREATE USER 'postfix'@'localhost' IDENTIFIED BY 'postfix';
+GRANT ALL PRIVILEGES ON `postfix` . * TO 'postfix'@'localhost';
+```
+
 Install postfix with mysql
 
 `sudo apt-get install postfix postfix-mysql`
@@ -51,7 +58,7 @@ smtpd_sasl_security_options = noanonymous
 Create `mysql_virtual_alias_maps.cf` file with contents and edit with mysql credentials
 ```
 user = postfix
-password = password
+password = postfix
 hosts = 127.0.0.1
 #host = localhost
 dbname = postfix
@@ -63,8 +70,8 @@ query = SELECT goto FROM alias WHERE address = '%s'
 
 Create `mysql_virtual_domains_maps.cf` file with contents and edit with mysql credentials
 ```
-user = root
-password = 456852
+user = postfix
+password = postfix
 hosts = 127.0.0.1
 #hosts = localhost
 dbname = postfix
@@ -76,8 +83,8 @@ additional_conditions = and backupmx = '0' and active = '1'
 
 Create `mysql_virtual_mailbox_maps.cf` file with contents and edit with mysql credentials
 ```
-user = root
-password = 456852
+user = postfix
+password = postfix
 hosts = 127.0.0.1
 #hosts = localhost
 dbname = postfix
@@ -96,13 +103,6 @@ sudo apt-get install php5-imap
 sudo php5enmod imap
 ```
 
-
-Create database and user
-```
-CREATE DATABASE postfix;
-CREATE USER 'postfix'@'localhost' IDENTIFIED BY 'choose_a_password';
-GRANT ALL PRIVILEGES ON `postfix` . * TO 'postfix'@'localhost';
-```
 
 Edit `config.inc.php` file
 
