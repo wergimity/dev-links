@@ -18,3 +18,6 @@ Useful links to help development
 
 ## Bootstrap
 - [Top 10 Resources for Bootstrap Themes](http://codecondo.com/bootstrap-themes/)
+- 
+## Resources
+- [GeoNames geographical database](http://www.geonames.org/)
