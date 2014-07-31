@@ -16,8 +16,9 @@ Useful links to help development
 - [Login with Google](http://weblessons.info/2014/06/21/log-in-with-google-tutorial-php/)
 - [Login with Microsoft Account](http://weblessons.info/2014/06/17/login-with-microsoft-account-php/)
 
-## Bootstrap
+## CSS
 - [Top 10 Resources for Bootstrap Themes](http://codecondo.com/bootstrap-themes/)
+- [50 Useful CSS Frameworks, Libraries and Tools of 2014](http://thedesignpixel.com/useful-css-frameworks-libraries-and-tools.html)
 
 ## Resources
 - [GeoNames geographical database](http://www.geonames.org/)
