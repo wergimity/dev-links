@@ -16,6 +16,7 @@ Useful links to help development
 - [Login with Google](http://weblessons.info/2014/06/21/log-in-with-google-tutorial-php/)
 - [Login with Microsoft Account](http://weblessons.info/2014/06/17/login-with-microsoft-account-php/)
 - [Easy PayPal Integration Using PHP](http://websyntax.blogspot.com/2012/01/easy-paypal-integration-using-php.html)
+- [PHP Database Migrations For Everyone](http://phinx.org/)
 
 ## CSS
 - [Top 10 Resources for Bootstrap Themes](http://codecondo.com/bootstrap-themes/)
