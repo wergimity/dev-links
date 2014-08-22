@@ -4,3 +4,4 @@ jQuery packages
  - [HTML5 upload](http://www.plupload.com/)
  - [Sexy forms with jQuery](http://uniformjs.com)
  - [Transit - CSS transitions and transformations for jQuery](http://ricostacruz.com/jquery.transit/)
+ - [Select2 is a jQuery based replacement for select boxes](http://ivaynberg.github.io/select2/)
