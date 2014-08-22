@@ -20,6 +20,7 @@ Useful links to help development
 - [Best jQuery Plugins of the Week](http://theneodesign.com/best-jquery-plugins-of-the-week-27th-july-2nd-august/)
 - [Best jQuery Plugins of the Week](http://theneodesign.com/best-jquery-plugins-of-the-week-10th-august-16th-august/)
 - [The 21 best jQuery plugins](http://www.creativebloq.com/jquery/top-jquery-plugins-6133175)
+- [20 Best jQuery Plugins for 2014](http://designgeekz.com/20-best-jquery-plugins-for-2014/)
 
 ## Resources
 - [GeoNames geographical database](http://www.geonames.org/)
