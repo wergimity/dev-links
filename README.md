@@ -22,6 +22,9 @@ Useful links to help development
 - [The 21 best jQuery plugins](http://www.creativebloq.com/jquery/top-jquery-plugins-6133175)
 - [20 Best jQuery Plugins for 2014](http://designgeekz.com/20-best-jquery-plugins-for-2014/)
 - [50 Most Useful jQuery Plugins from 2013](http://speckyboy.com/2013/12/11/jquery-plugins-2013/)
+- 
+## Useful
+- [A successful Git branching model](nvie.com/posts/a-successful-git-branching-model/)
 
 ## Resources
 - [GeoNames geographical database](http://www.geonames.org/)
