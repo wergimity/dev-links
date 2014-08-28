@@ -25,7 +25,3 @@ Useful links to help development
 
 ## Resources
 - [GeoNames geographical database](http://www.geonames.org/)
-
-```PHP
-$hello = "fobar";
-```
