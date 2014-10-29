@@ -13,15 +13,15 @@
 * Su kokia PHP versija tenka programuot?
 * Kokius design patternus galėtum įvardinti arba kokius esi naudojęs?
 ```
-	Factory
-	Singleton
-	Adapter
-	Decorator
-	IOC / DependencyInjection
-	Facade / Proxy
-	Command
-	Strategy
-	Repository
+Factory
+Singleton
+Adapter
+Decorator
+IOC / DependencyInjection
+Facade / Proxy
+Command
+Strategy
+Repository
 ```
 
 Kas negerai?:
