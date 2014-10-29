@@ -1,12 +1,17 @@
 * Kokia darbo patirtis, prie kokių projektų esi dirbes?
+* Javascript patirtis.
+* Ką teko daryti su moodle? Kuo skiriasi Moodle / Totara?
+* Kiek žinai apie composer / packagist?
 * Kaip reiktų saugoti slaptažodžius?
 * Koks skirtumas tarp public / private / protected?
-* Kaip laikyti datas duomenų bazėje?
+* Kaip laikyti / nelaikyti datas duomenų bazėje?
 * Kokius darbo įrankius naudoji?
 * Žinai XSS / CSRF / OWASP ?
 * BDD žinios? BDD įrankiai? Behat?
+* Laravel - kas tai su kuo tai valgoma?
+* Kaip realizuotum validavimą Laravel'yje?
+* Su kokia PHP versija tenka programuot?
 * Kokius design patternus galėtum įvardinti arba kokius esi naudojęs?
-
 ```
 	Factory
 	Singleton
