@@ -11,6 +11,8 @@
 * Laravel - kas tai su kuo tai valgoma?
 * Kaip realizuotum validavimą Laravel'yje?
 * Su kokia PHP versija tenka programuot?
+* Kaip galima išimti atsitiktinį elementą iš duombazės naudojant doctrine?
+* Kurie symfony komponentai tau labiausiai patinka?
 * Kokius design patternus galėtum įvardinti arba kokius esi naudojęs?
 ```
 Factory
