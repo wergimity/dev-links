@@ -11,6 +11,7 @@ PHP packages
 - [Free programming](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Why PHP doesn’t suck anymore](http://transmission.vehikl.com/why-php-doesnt-suck-anymore/)
 - [PHP Database Migrations For Everyone](http://phinx.org/)
+- [6 Rules of thumb to build blazing fast web server applications](http://loige.co/6-rules-of-thumb-to-build-blazing-fast-web-applications/)
 
 ##Slim
 - [Slim Framework](https://github.com/codeguy/Slim)
